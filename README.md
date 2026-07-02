@@ -43,6 +43,21 @@ This project addresses that limitation by implementing a rule-based, explainable
 
 ---
 
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/shubhpandey2985-ctrl/redrob-candidate-ranking.git
+cd redrob-candidate-ranking
+```
+
+Python 3.10 or later is recommended.
+
+No external dependencies are required.
+
+---
+
 ## 🏗️ System Architecture
 
 ```mermaid
