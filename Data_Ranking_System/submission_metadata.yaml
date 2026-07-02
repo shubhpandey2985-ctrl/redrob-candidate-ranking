@@ -1,0 +1,18 @@
+team_name: "Data Ranking System"
+primary_contact_name: "Shubh Pandey"
+primary_contact_email: "your-email@example.com"
+primary_contact_phone: "your-phone-number"
+github_repository_url: "https://github.com/your-username/data-ranking-system"
+sandbox_demo_link: "https://example.com/your-sandbox"
+ai_tools_declared:
+  - ChatGPT
+compute_environment_summary: "CPU-only local machine, Python 3.10+, no network calls during ranking."
+team_members:
+  - name: "Shubh Pandey"
+    email: "your-email@example.com"
+methodology_summary: >
+  Deterministic CPU-only ranker that streams candidates, scores role fit,
+  production retrieval/ranking evidence, relevant skills, product-company
+  context, behavioral availability, and risk penalties for keyword stuffing
+  or honeypot-like inconsistencies. Outputs top 100 with candidate-specific
+  reasoning.
